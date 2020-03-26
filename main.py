@@ -1,3 +1,0 @@
-import physics
-
-physics.capillary()
